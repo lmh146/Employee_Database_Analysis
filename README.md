@@ -1,4 +1,4 @@
-# sql_challenge
+# SQL_Challenge
 
 ## Employee Database
 This project looks to uncover the relationship between six separate data files and relate them into one cohesive database to then query for specific information regarding the employees' details, managerial staff, and departments.
