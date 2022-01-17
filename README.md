@@ -6,7 +6,7 @@ This project looks to uncover the relationship between six separate data files a
 ## Employee Database
 It begins by creating an Entity Relationship Diagram (ERD) to understand the content of each CSV file and how they could potentially relate to one another. 
 
-![QuickDBD-Free Diagram](https://user-images.githubusercontent.com/88953017/149797429-e2be25a6-f398-45aa-9c45-3a5344d346f3.png)
+![image](https://user-images.githubusercontent.com/88953017/149798020-b4231ad4-30fd-4e65-a97d-504fc2354ef8.png)
 
 From there, within postgreSQL the tables are created with consideration of the data type of each column to ensure proper importation of the CSV files can be done. Primary keys are included for each of the tables and when necessary foreign keys are added as well, all of which are highlighted in the ERD. 
 
